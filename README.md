@@ -2,9 +2,9 @@
 
 <h3 align="center">Projeto criado para treinamento das habilidades principalmente em CSS/RESPONSIVIDADE!</h3>
 
-### Link do projeto: 
+##### Link do projeto: https://zevit0r.github.io/Nature-website-html-css-/
 
 <div align="center">
-  <img align="left" width="670px" height="450px" src="./assets/gif-01.gif"/>
-  <img align="right" width="300px" height="450px" src="./assets/gif-02.gif"/>
+  <img align="left" width="600px" height="420px" src="./assets/gif-01.gif"/>
+  <img align="right" width="300px" height="420px" src="./assets/gif-02.gif"/>
 </div>
